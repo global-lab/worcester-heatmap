@@ -8,7 +8,8 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "leaflet-geotiff-2": "0.2.5"
+    "leaflet": "^1.6.0",
+    "leaflet-geotiff-2": "^0.2.5"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
